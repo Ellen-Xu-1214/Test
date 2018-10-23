@@ -8,7 +8,7 @@ Below are the statistics.
 */
 
 const customers = [
-{color: `floral`, membership: false},
+{color: `b`, membership: false},
 {color: `black`, membership: false},
 {color: `blue`, membership: false},
 {color: `gray`, membership: true},
